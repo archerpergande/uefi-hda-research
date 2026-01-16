@@ -15,3 +15,8 @@ Beyond accessibility, there are other utilities to audio in a UEFI environment i
 4. **DMA Management:** Allocating and managing buffers for communication between an HD Audio driver and device.
 5. **Codec Enumeration:** Methods of identifying and enumerating various audio codecs.
 6. **Sound Playback:** Generate simple sound queues stored in application memory or external files.
+
+### References
+- **[Intel High Definition Audio Specification Revision 1.0a](https://www.intel.com/content/dam/www/public/us/en/documents/product-specifications/high-definition-audio-specification.pdf)**
+- **[Unified Extensible Firmware Interface (UEFI) Specification 2.11](https://uefi.org/sites/default/files/resources/UEFI_Spec_Final_2.11.pdf)**
+- **[EDK2 Community](https://github.com/tianocore/edk2)**
